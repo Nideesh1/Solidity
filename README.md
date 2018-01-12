@@ -2,6 +2,8 @@
 
 # Basic Banking Smart Contract
 
+*I take no credit for the code written. I am only learning and explaining information a step above the creators' instruction.
+
 I've taken this basic banking smart contract written in solidity and annotated it with explanations. Some concepts are different than standard OOP. Condition-oriented programming ( part of contract oriented programming) removes the need for conditions in function bodies.
 
 Couple of other things are interesting to note such as the TestThrow contract. Require validates user inputs and is used as a precursor. Assert really prevents an untrue thing from occuring
@@ -31,7 +33,7 @@ This is for running on MetaMask test
 npm install lite-server --save-dev
 
 
-# Inside package.json...
+ Inside package.json...
   "scripts": {    
     "dev": "lite-server"
   },
