@@ -10,3 +10,34 @@ Couple of other things are interesting to note such as the TestThrow contract. R
 
 
 Learning Credit Goes To: http://bit.ly/2lJZ98x
+
+
+#Ropsten TestNet Trial
+*Disclaimer. This trial is taken exactly from the Udemy course: https://www.udemy.com/your-first-decentralized-app/.
+I've simply executed the steps and explained some steps along the way.
+
+Create a directory and run the following:
+
+npm install -g ethereumjs-testrpc
+
+testrpc
+
+npm init
+
+npm install ethereum/web3.js --save
+
+This is for running on MetaMask test
+
+npm install lite-server --save-dev
+
+
+# Inside package.json...
+  "scripts": {    
+    "dev": "lite-server"
+  },
+
+  
+
+npm run dev
+
+
