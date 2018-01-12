@@ -1,3 +1,5 @@
 Events: If a contract living on the blockchain is invoked then an event might happen. Say there are 5 functions available publically
 for a contract. Two of those functions have events inside them. When someone calls all 5 of those functions, the contract will
 fire 2 events- letting whoever know something has happened.
+
+Modifier: Basically like if clauses stuck inside functions. Only if this condition is met, will the rest of the function execute. 
