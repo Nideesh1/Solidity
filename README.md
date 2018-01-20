@@ -45,6 +45,6 @@ npm run dev
 
 # Rinkeby Testnet with Mist Browser.
 
-Salary.sol; This is a simple salary contract. When an employee is included in the contracts list of workers they are allowed to get their salary (in this case ether). Once they received their payment, the contract does not allow further ether to be withdrawn.
+Salary.sol; This is a simple salary contract. When an employee is included in the contracts list of workers they are allowed to get their salary (in this case ether). Once they received their payment, the contract does not allow further ether to be withdrawn. Code from: http://bit.ly/2DlePpt
 
 
