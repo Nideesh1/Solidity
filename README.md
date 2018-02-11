@@ -51,4 +51,4 @@ Salary.sol; This is a simple salary contract. When an employee is included in th
 
 # My first live erc-20 token on the Rinkeby Testnet
 
-NTToken. Total supply 1000. 
+NTToken. Total supply 1000. Contract address: 0x4a8Bd51ED397954BBcB287dF3Eb7915F2a9D23c1
