@@ -1,0 +1,25 @@
+pragma solidity ^0.4.18;
+
+contract DummyCoin {
+
+  address deployer;
+  mapping (address => uint) balances;
+  
+  function DumbCoin(){
+    deployer = msg.sender;
+  }
+  
+  function giveCoins(uint amount, address receiver){
+      
+      if(msg.sender == deployer){
+      
+        //give coins to receiver
+      }
+      else {
+      
+        throw;
+      }
+    
+  }
+  
+}
