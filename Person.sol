@@ -3,6 +3,8 @@ pragma solidity ^0.4.18;
 //This contract is to test inheritance in addition to constructor contract creation
 //which demands a parameter in the Mist Browser itself
 
+// Contract Address : 0x3e644e79663514a52A33c4BBcE9875D039C86B55
+
 contract Person {
 	
 	address public owner;
